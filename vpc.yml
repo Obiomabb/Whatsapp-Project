@@ -1,0 +1,4 @@
+# Create Vpc
+# crate subnets and route tables
+# create IGW and attach vpc
+# create SG
